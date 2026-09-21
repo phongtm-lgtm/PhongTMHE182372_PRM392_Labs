@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e548b503-a461-4238-a556-d4b76047c7fe" name="Changes" comment="" />
+    <list default="true" id="e5fae1a1-abbc-4a0b-9f1c-8a70d28a3d3c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/deviceManager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,28 +16,20 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Dart File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
+  "associatedIndex": 2,
   "fromUser": false
 }]]></component>
-  <component name="ProjectId" id="3JQx5XUQVhiSXuE1mXVKutZSHzY" />
+  <component name="ProjectId" id="3JdJlI5yWgiwlSlh14JqN8GlMyA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Flutter.main.dart.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -46,16 +41,9 @@
     "git-widget-placeholder": "main",
     "io.flutter.project.isFirstOpen": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/prm/lib",
-    "settings.editor.selected.configurable": "templates.modelproviders.configurable",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\prm\lib" />
-    </key>
-  </component>
   <component name="RunManager">
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
@@ -64,11 +52,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e548b503-a461-4238-a556-d4b76047c7fe" name="Changes" comment="" />
-      <created>1789606916247</created>
+      <changelist id="e5fae1a1-abbc-4a0b-9f1c-8a70d28a3d3c" name="Changes" comment="" />
+      <created>1789985183586</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1789606916247</updated>
+      <updated>1789985183586</updated>
     </task>
     <servers />
   </component>
